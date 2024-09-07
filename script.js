@@ -1,4 +1,4 @@
-const password = 'cristina'; // Replace with your desired password
+const password = 'caiolalala'; // Replace with your desired password
 const frase = "Sei que fui estúpido e não mereço desculpas, mas não desista de mim. Poxa, gosto de você e por isso fiquei com raiva. Poderia me dar uma nova chance? Você pode mudar esse meu lado ruim!";
 const elementoFrase = document.getElementById("frase");
 let indice = 0;
